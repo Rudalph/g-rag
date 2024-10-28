@@ -1,0 +1,51 @@
+PatientID,Department,Treatment,Medication,Specialist,Disease,Symptom,TestResult,Outcome,TreatmentDate
+P001,Neurology,Medication,MedE,Dr. Johnson,Migraine,Headache,Normal,Worsened,27-10-2022
+P002,General Surgery,Surgery,MedD,Dr. Smith,Hypertension,Fatigue,Abnormal,Stable,06-05-2023
+P003,Orthopedics,Therapy,MedB,Dr. Smith,Migraine,Dizziness,Normal,Improved,15-02-2023
+P004,Orthopedics,Medication,MedE,Dr. Smith,Cancer,Chest Pain,Critical,Stable,29-03-2022
+P005,Oncology,Medication,MedE,Dr. Wilson,Diabetes,Fatigue,Critical,Improved,20-06-2023
+P006,Orthopedics,Observation,MedD,Dr. Brown,Diabetes,Dizziness,Abnormal,Worsened,28-09-2023
+P007,Cardiology,Follow-up,MedA,Dr. Johnson,Asthma,Chest Pain,Abnormal,Worsened,25-03-2022
+P008,Oncology,Surgery,MedB,Dr. Taylor,Hypertension,Chest Pain,Normal,Stable,07-04-2023
+P009,General Surgery,Follow-up,MedD,Dr. Brown,Hypertension,Chest Pain,Abnormal,Worsened,17-10-2022
+P010,General Surgery,Observation,MedA,Dr. Johnson,Migraine,Cough,Critical,Worsened,22-07-2022
+P011,Orthopedics,Medication,MedE,Dr. Johnson,Asthma,Chest Pain,Abnormal,Improved,15-03-2022
+P012,Cardiology,Surgery,MedC,Dr. Taylor,Asthma,Fatigue,Abnormal,Stable,08-05-2022
+P013,Orthopedics,Testing,MedC,Dr. Wilson,Migraine,Fatigue,Critical,Stable,25-03-2023
+P014,Cardiology,Follow-up,MedA,Dr. Wilson,Asthma,Shortness of Breath,Critical,Stable,27-01-2022
+P015,Cardiology,Surgery,MedE,Dr. Taylor,Hypertension,Cough,Abnormal,Worsened,11-02-2022
+P016,Oncology,Observation,MedE,Dr. Wilson,Migraine,Chest Pain,Critical,Stable,13-10-2023
+P017,Orthopedics,Medication,MedD,Dr. Brown,Arthritis,Shortness of Breath,Abnormal,Worsened,18-04-2022
+P018,Oncology,Therapy,MedD,Dr. Wilson,Migraine,Cough,Abnormal,Worsened,07-02-2022
+P019,Orthopedics,Medication,MedC,Dr. Brown,Migraine,Headache,Abnormal,Worsened,02-01-2022
+P020,General Surgery,Follow-up,MedD,Dr. Wilson,Hypertension,Chest Pain,Critical,Stable,30-09-2023
+P021,Orthopedics,Testing,MedD,Dr. Smith,Cancer,Shortness of Breath,Critical,Improved,22-10-2022
+P022,Orthopedics,Testing,MedD,Dr. Smith,Hypertension,Cough,Critical,Improved,28-12-2023
+P023,Oncology,Therapy,MedE,Dr. Smith,Diabetes,Dizziness,Normal,Improved,27-04-2022
+P024,Orthopedics,Medication,MedB,Dr. Wilson,Asthma,Shortness of Breath,Critical,Worsened,07-10-2022
+P025,Orthopedics,Observation,MedD,Dr. Johnson,Arthritis,Fatigue,Normal,Stable,15-07-2022
+P026,Pediatrics,Follow-up,MedB,Dr. Smith,Migraine,Dizziness,Abnormal,Worsened,01-10-2022
+P027,Cardiology,Therapy,MedC,Dr. Taylor,Diabetes,Cough,Abnormal,Improved,03-04-2023
+P028,Pediatrics,Observation,MedC,Dr. Brown,Diabetes,Fatigue,Abnormal,Stable,26-11-2022
+P029,Oncology,Testing,MedB,Dr. Taylor,Arthritis,Chest Pain,Abnormal,Improved,22-11-2022
+P030,General Surgery,Observation,MedD,Dr. Wilson,Asthma,Cough,Normal,Stable,07-02-2022
+P031,Oncology,Follow-up,MedE,Dr. Brown,Hypertension,Dizziness,Normal,Worsened,13-04-2023
+P032,Cardiology,Testing,MedB,Dr. Wilson,Asthma,Chest Pain,Normal,Stable,29-09-2022
+P033,Neurology,Follow-up,MedD,Dr. Smith,Migraine,Cough,Critical,Stable,21-11-2022
+P034,General Surgery,Testing,MedD,Dr. Taylor,Hypertension,Fatigue,Normal,Improved,09-10-2023
+P035,General Surgery,Therapy,MedB,Dr. Smith,Arthritis,Headache,Critical,Worsened,13-04-2022
+P036,Orthopedics,Surgery,MedC,Dr. Smith,Hypertension,Shortness of Breath,Normal,Stable,03-01-2023
+P037,Neurology,Observation,MedB,Dr. Johnson,Diabetes,Dizziness,Critical,Worsened,04-07-2022
+P038,Oncology,Surgery,MedA,Dr. Taylor,Arthritis,Fatigue,Critical,Improved,25-05-2023
+P039,Pediatrics,Surgery,MedB,Dr. Wilson,Asthma,Shortness of Breath,Abnormal,Stable,14-11-2023
+P040,Cardiology,Observation,MedC,Dr. Taylor,Cancer,Headache,Abnormal,Stable,25-08-2023
+P041,Neurology,Testing,MedD,Dr. Brown,Arthritis,Shortness of Breath,Normal,Stable,10-05-2023
+P042,Cardiology,Surgery,MedD,Dr. Taylor,Migraine,Fatigue,Abnormal,Worsened,30-10-2022
+P043,Cardiology,Testing,MedD,Dr. Brown,Hypertension,Fatigue,Critical,Worsened,20-02-2022
+P044,Pediatrics,Testing,MedD,Dr. Brown,Cancer,Fatigue,Abnormal,Improved,14-10-2023
+P045,Oncology,Follow-up,MedC,Dr. Johnson,Asthma,Headache,Critical,Worsened,10-02-2022
+P046,Neurology,Observation,MedA,Dr. Taylor,Migraine,Cough,Normal,Improved,30-10-2022
+P047,Neurology,Testing,MedD,Dr. Johnson,Cancer,Chest Pain,Critical,Stable,28-06-2023
+P048,Pediatrics,Therapy,MedB,Dr. Brown,Arthritis,Shortness of Breath,Critical,Stable,28-04-2022
+P049,Orthopedics,Medication,MedB,Dr. Johnson,Asthma,Cough,Critical,Stable,25-07-2023
+P050,Neurology,Medication,MedD,Dr. Smith,Migraine,Fatigue,Normal,Stable,13-01-2023
